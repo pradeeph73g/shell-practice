@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #No space before or after equal sign (=)
-PERSON1=kumar
-PERSON2=dizzy
+PERSON1=pradeep
+PERSON2=gosala
 
 
 echo "$PERSON1:: Hai $PERSON2 this is my first shell script"
